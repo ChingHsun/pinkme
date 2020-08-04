@@ -1,0 +1,3 @@
+Main-Class: prj/Main
+Class-Path: jarTest/jar1.jar
+
